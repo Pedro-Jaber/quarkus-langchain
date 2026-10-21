@@ -1,0 +1,9 @@
+### 
+GET Http://localhost:8080/chat?message=Qual é a capital da França?
+Accept: text/plain
+
+###
+
+GET Http://localhost:8080/chat?message=Qual é a capital da França?
+Accept: text/plain
+
